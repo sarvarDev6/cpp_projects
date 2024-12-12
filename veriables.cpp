@@ -25,7 +25,7 @@ int main () {
 	//std::cout << price << '\n';
 	
 	
-	//Single charcter
+	//Single character
 	char grade = 'A';
 	char initial = 'C';
 	char dollarSign = '$';
